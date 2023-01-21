@@ -1,0 +1,11 @@
+Number,Country,Age,Purchase
+1,France,23,y
+2,Germany,56,y
+3,France,,y
+4,France,45,n
+5,UK,,
+6,Germany,40,y
+7,,,y
+8,,32,n
+9,UK,42,
+10,,35,y
